@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsetch",
+        "uuid": 40764864,
+        "checksum": "8zlt25"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
